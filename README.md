@@ -9,15 +9,10 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva08&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
   
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
-
-<p></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva08&layout=compact&langs_count=7&theme=dracula"/></p>
-  
-  
-  
- 
+
  <div style="display: inline_block"><br>
   <img align="center" alt="gs-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="gs-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
