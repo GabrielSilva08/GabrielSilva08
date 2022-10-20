@@ -1,8 +1,10 @@
 ### Hello! I am Gabriel, nice to meet you!
+##
 
+<!--
 - 🔭 I’m currently working on Machine Learning 🤖
 - 🌱 I’m currently learning Python 🐍
-<!-- - 💬 Ask me about whatever you want! 🙂 -->
+- 💬 Ask me about whatever you want! 🙂 -->
 
 <div align="center">
   <a href="https://github.com/gabrielsilva08">
