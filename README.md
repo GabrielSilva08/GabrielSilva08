@@ -27,4 +27,6 @@
   <a href="https://www.linkedin.com/in/gabriel-silva-ribeiro-526949232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.sololearn.com/profile/12246913" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a>
   <a href="https://codeforces.com/profile/Gabriel_Silva" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/gabrielsilva08/gabrielsilva08/blob/output/github-contribution-grid-snake.svg)
 </div>
