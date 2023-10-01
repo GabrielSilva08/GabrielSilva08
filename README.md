@@ -59,3 +59,5 @@
 </picture>
 
 ##
+
+![snake gif](https://github.com/GabrielSilva08/GabrielSilva08/blob/output/github-contribution-grid-snake.svg)
