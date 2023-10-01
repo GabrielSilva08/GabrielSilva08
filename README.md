@@ -47,7 +47,4 @@
  <!-- snake game -->
 
 ##
- 
- <div>
   ![Snake animation](https://github.com/gabrielsilva08/gabrielsilva08/blob/output/github-contribution-grid-snake.svg)
-</div>
