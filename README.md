@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning JavaScript 💻
 - 📟 Improving on Data Structures! 💾
 ##
+<div align="center">
+  <img width=100% src="https://64.media.tumblr.com/5c1223a931b6bceb6b112abf3bcd429f/9ad14e1d716da3b3-6b/s540x810/2eb0c0a20eea0a3208e9c956d8eb39f1ca41f8fe.gif">
+</div>
+
+##
+
 <!-- Git status -> Two main painnels -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva08&theme=tokyonight&rank_icon=github"/>
