@@ -1,20 +1,20 @@
-# Hello! I am Gabriel, nice to meet you!
+# Hello! I am Gabriel, nice to meet you! 🙂
 
-- 🔭 I’m currently working on Machine Learning 🤖
-- 🌱 I’m currently learning Python 🐍
-
-<!-- <div align="center">
+- 🕹️ I’m currently working on Game Development 🎮
+- 🌱 I’m currently learning JavaScript 💻
+- 📟 Improving on Data Structures! 💾
+##
+<!-- Git status -> Two main painnels -->
+<div align="center">
   <a href="https://github.com/gabrielsilva08">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva08&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva08&layout=donut-vertical&langs_count=7&theme=tokyonight"/>
+  <br/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielsilva08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-<br />
-
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilva08&layout=compact&langs_count=7&theme=dracula"/></p>
-
+##
+<h3 align = "left">Some technologies I work with:</h3>
+<!-- Main technologies -->
  <div style="display: inline_block"><br>
   <img align="center" alt="gs-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="gs-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
