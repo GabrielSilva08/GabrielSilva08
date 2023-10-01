@@ -45,6 +45,7 @@
 <h3 align = "left">My social medias:</h3>
 <div align="center"> 
   <!--Canal do youtube <a href="https://www.youtube.com/channel/UCMm5M6kKwmh7Tzi8A84aEuw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+  <a href="https://github.com/GabrielSilva08" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/g46riel_5ilv4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsilvaribeiro17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-silva-ribeiro-526949232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
