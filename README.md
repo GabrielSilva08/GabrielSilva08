@@ -1,8 +1,8 @@
 # Hello! I am Gabriel, nice to meet you! 🙂
 
-- 🕹️ I’m currently working on Game Development 🎮
-- 🌱 I’m currently learning JavaScript 💻
-- 📟 Improving on Data Structures! 💾
+- 💻 I’m currently working on DevOps! 🔨
+- 🌱 Working with Python! 🐍
+- ⚙️ Improving on Machine Learning! 🤖
 ##
 <div align="center">
   <img width=100% src="https://64.media.tumblr.com/5c1223a931b6bceb6b112abf3bcd429f/9ad14e1d716da3b3-6b/s540x810/2eb0c0a20eea0a3208e9c956d8eb39f1ca41f8fe.gif">
