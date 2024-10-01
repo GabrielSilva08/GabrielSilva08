@@ -1,6 +1,6 @@
 # Hello! I am Gabriel, nice to meet you! 🙂
 
-- 💻 I’m currently working on DevOps! 🔨
+- 💻 I’m currently working on Data Science! 🔨
 - 🌱 Working with Python! 🐍
 - ⚙️ Improving on Machine Learning! 🤖
 ##
